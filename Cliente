@@ -1,0 +1,22 @@
+package ferreteriavecino;
+
+
+public class FerreteriaVecino {
+
+       public static void main(String[] args) {
+        
+             System.out.println("Bienvenidos");
+             
+             System.out.println("Ingrese Cliente");
+                        
+             
+             
+             String nombre = "Jose Navarro";
+             String direccion = "Belgrano 414";
+             String celular = "113677897";
+             
+             
+             System.out.println("Nombre: " + nombre);
+             System.out.println("Direccion: " + direccion);
+             System.out.println("Telefono: " + celular);
+             
